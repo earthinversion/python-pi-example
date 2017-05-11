@@ -1,8 +1,9 @@
 #!/usr/local/bin/python3
 
 def main(msg):
-     // add a different comment
-    // print a message	
+    // Another comment
+    // add a different comment
+    // print a message
     print(msg)
 
 
