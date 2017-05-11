@@ -1,7 +1,8 @@
 #!/usr/local/bin/python3
 
 def main(msg):
-    print(msg)
+        \\ add a different comment
+	print(msg)
 
 
 main("hello people")
